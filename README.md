@@ -7,13 +7,13 @@ A visually appealing, modern take on the classic Flappy Bird game built with Pyg
 ## 🎮 Screenshots
 
 ### Game Start Screen
-![Start Screen](screenshot-start.png)
+![Start Screen](https://github.com/InYuusha/Flappy-Game/blob/main/Screenshot%202025-12-26%20120542.png?raw=true)
 
 ### In-Game Play
-![Gameplay](screenshot-gameplay.png)
+![Gameplay](https://github.com/InYuusha/Flappy-Game/blob/main/Screenshot%202025-12-26%20120627.png?raw=true)
 
 ### Game Over Screen
-![Game Over](screenshot-gameover.png)
+![Game Over](https://github.com/InYuusha/Flappy-Game/blob/main/Screenshot%202025-12-26%20120615.png?raw=true)
 
 ---
 
